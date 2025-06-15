@@ -4,14 +4,8 @@ Nettly Hosting App é um aplicativo do painel de controle da nettly hosting, bai
 
 📌Este aplicativo foi desenvolvido para facilitar aos nossos usuários a gerenciar seus servidores
 
-📄 Licença
-
-Este projeto está sob a licença do XxPokerxX, atual CEO da Nettly Hosting.
-Acesse: https://nettlyhost.cloud/app/licenca.html
-
 📞 Contato
 
 📧 Email: suporte@nettlyhost.cloud
 🔗 Site: https://www.nettlyhost.cloud
-🐦 Twitter: @NettlyHosting
-
+🐦 X(Twitter): @NettlyHosting
